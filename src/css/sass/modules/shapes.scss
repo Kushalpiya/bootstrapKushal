@@ -1,0 +1,77 @@
+.circle1 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 128px;
+    top: 30px;
+    border-radius: 80%;
+    border: 2px solid rgba(255, 180, 0, 0.8);
+    box-sizing: border-box;
+}
+
+.circle2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 858px;
+    border-radius: 80%;
+    top: 52px;
+    border: 2px solid rgba(5, 255, 0, 0.8);
+    box-sizing: border-box;
+}
+
+.circle3 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 80%;
+    left: 426px;
+    top: 422px;
+    border: 2px solid rgba(5, 255, 0, 0.8);
+    box-sizing: border-box;
+}
+
+.circle4 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 895.86px;
+    border-radius: 80%;
+    top: 379.96px;
+    border: 2px solid rgba(255, 180, 0, 0.8);
+    box-sizing: border-box;
+}
+
+.square1 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 718.83px;
+    top: 333px;
+    border: 2px solid rgba(0, 71, 255, 0.8);
+    box-sizing: border-box;
+    transform: rotate(26.05deg);
+}
+
+.square2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 1240.46px;
+    top: 69.66px;
+    border: 2px solid rgba(255, 180, 0, 0.8);
+    box-sizing: border-box;
+    transform: rotate(26.05deg);
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-bottom: 20px solid #ff2e00cc;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    float: right;
+    position: relative;
+    top: 400px;
+    left: -20px;
+}
